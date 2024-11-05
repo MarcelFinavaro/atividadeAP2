@@ -23,6 +23,9 @@ ____________________________________________
 Resumo das etapas
 
 Classe Abstrata Veiculo: Define atributos comuns e métodos abstratos e de acesso.
+
 Classe Carro: Herda de Veiculo, adiciona um atributo específico e implementa o método informacoesVeiculo().
+
 Classe Moto: Também herda de Veiculo, adiciona um atributo específico e implementa o método informacoesVeiculo().
+
 Classe Main: Instancia objetos das classes Carro e Moto, define seus atributos e imprime suas informações.
